@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233704750951",
+    "project_id": "notjusthack",
+    "storage_bucket": "notjusthack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233704750951:android:b35b3f5a8501e84341f9c2",
+        "android_client_info": {
+          "package_name": "com.example.localcommunitysupportapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIr-mHMr6deToT2INFCCT6vvAnSEK3BcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
